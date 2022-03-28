@@ -11,7 +11,6 @@
   inputs.src-edlib-main.ref   = "refs/heads/main";
   inputs.src-edlib-main.owner = "bio-nim";
   inputs.src-edlib-main.repo  = "nim-edlib";
-  inputs.src-edlib-main.dir   = "";
   inputs.src-edlib-main.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
