@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1656746720,
-        "narHash": "sha256-NwRE68RhZ6akkUZmRcPRQDI3UderRm3d5f1sQw28CU4=",
+        "lastModified": 1657152913,
+        "narHash": "sha256-U1rmKnQcJcPTVNAHl3rnHPl5cO96LC5M9CYxgStl5dQ=",
         "owner": "nim-nix-pkgs",
         "repo": "edlib",
-        "rev": "ae7f49de907762536c766759c7d2f19ae80ea2eb",
+        "rev": "bba962142557e0cbdbee2d0faceffe67f6916de7",
         "type": "github"
       },
       "original": {
